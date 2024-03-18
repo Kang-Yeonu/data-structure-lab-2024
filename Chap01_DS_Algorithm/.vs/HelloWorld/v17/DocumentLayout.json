@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A51B2C1-CC2E-46D6-B384-46DB404E928E}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\HelloWorld\\HelloWorld\\helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A51B2C1-CC2E-46D6-B384-46DB404E928E}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "helloworld.cpp",
+              "DocumentMoniker": "C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\HelloWorld\\HelloWorld\\helloworld.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\helloworld.cpp",
+              "ToolTip": "C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\HelloWorld\\HelloWorld\\helloworld.cpp",
+              "RelativeToolTip": "HelloWorld\\helloworld.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T09:07:30.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
