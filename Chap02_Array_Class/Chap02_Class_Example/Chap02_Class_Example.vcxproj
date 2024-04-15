@@ -131,6 +131,8 @@
     <ClInclude Include="Car.h" />
     <ClInclude Include="SportsCar.h" />
     <ClInclude Include="Rectangle.h" />
+    <ClInclude Include="Smarthome.h" />
+    <ClInclude Include="Music.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
