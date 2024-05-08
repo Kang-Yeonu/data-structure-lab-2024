@@ -8,7 +8,7 @@ using namespace std;
 // Music class
 class Music {
 private:
-    string title;  //member º¯¼ö
+    string title;  //¸â¹öº¯¼ö member variable = field
     string artist;
     string album;
     int year;
@@ -23,7 +23,7 @@ public:
     // ¼Ò¸êÀÚ(destructor)
      ~Muscic() {}
 
-    // Getters
+    // Getters ¸â¹öÇÔ¼ö  member function = method
     string getTitle() { return title; }
     string getArtist() { return artist; }
     string getAlbum() { return album; }

@@ -34,7 +34,7 @@ MusicStreamingService myService("Spotify");
 myService.addMusic("VIBE", "Taeyang", "Album", 2023);
 myService.addMusic("Ditto", "NewJeans", "Album", 2023);
 myService.addMusic("Attention", "NewJeans", "Album", 2023);
-
+//message : receiver.method ("parameter1", "parameter2");
 string music_title;
 cout << "Enter the Music Title : ";
 cin >> music_title;
