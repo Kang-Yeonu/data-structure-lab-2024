@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\SportsCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\SportsCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\SportsCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A452C943-1733-4662-B0A8-B7A30E4A8D29}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\SportsCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Smarthome.h",
               "DocumentMoniker": "C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Smarthome.h",
               "RelativeDocumentMoniker": "Chap02_Class_Example\\Smarthome.h",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "Chap02_Class_Example\\Smarthome.h",
               "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-21T14:32:41.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T14:32:41.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Rectangle.h",
               "DocumentMoniker": "C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Rectangle.h",
               "RelativeDocumentMoniker": "Chap02_Class_Example\\Rectangle.h",
@@ -63,12 +62,11 @@
               "RelativeToolTip": "Chap02_Class_Example\\Rectangle.h",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-21T14:32:40.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T14:32:40.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Music.h",
               "DocumentMoniker": "C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Music.h",
               "RelativeDocumentMoniker": "Chap02_Class_Example\\Music.h",
@@ -76,12 +74,11 @@
               "RelativeToolTip": "Chap02_Class_Example\\Music.h",
               "ViewState": "AQIAACcAAAAAAAAAAAAAADIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-21T14:32:40.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T14:32:40.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Complex.h",
               "DocumentMoniker": "C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Complex.h",
               "RelativeDocumentMoniker": "Chap02_Class_Example\\Complex.h",
@@ -94,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Car.h",
               "DocumentMoniker": "C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\Car.h",
               "RelativeDocumentMoniker": "Chap02_Class_Example\\Car.h",
@@ -107,20 +104,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\main.cpp",
               "RelativeDocumentMoniker": "Chap02_Class_Example\\main.cpp",
               "ToolTip": "C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\main.cpp",
               "RelativeToolTip": "Chap02_Class_Example\\main.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-21T14:32:33.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "SportsCar.h",
               "DocumentMoniker": "C:\\Users\\82109\\\uBB38\uC11C\\data-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\SportsCar.h",
               "RelativeDocumentMoniker": "Chap02_Class_Example\\SportsCar.h",

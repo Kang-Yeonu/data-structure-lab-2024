@@ -36,7 +36,7 @@ void main(){
 		int c = here.col;
 		printf("현재위치 =(%d,%d)\n", r, c);
 		if (map[r][c] == 'x') {
-			printf("출구도착]n");
+			printf("출구도착\n");
 			return;
 		}
 
